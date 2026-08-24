@@ -19,3 +19,5 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 python detect.py
+
+https://www.c-nexco.co.jp/en/safety/gyakusouboushi/status.html
