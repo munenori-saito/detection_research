@@ -1,0 +1,15 @@
+# メディアファイル（動画・重い画像）
+*.mp4
+*.avi
+*.mov
+
+# AIモデルの重みファイル・変換後フォルダ
+*.pt
+*.onnx
+*.engine
+*_openvino_model/
+*_ncnn_model/
+
+# テスト出力画像など
+output_*.mp4
+runs/
