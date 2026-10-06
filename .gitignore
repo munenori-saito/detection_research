@@ -13,3 +13,7 @@
 # テスト出力画像など
 output_*.mp4
 runs/
+
+# 仮想環境フォルダ
+venv/
+.venv/
