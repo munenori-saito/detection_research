@@ -1,0 +1,46 @@
+A Survey of Modern Deep Learning based Object Detection Models
+https://arxiv.org/abs/2104.11892
+Object Detectionについてのサーベイ論文
+
+
+A Decade of You Only Look Once (YOLO) for Object Detection: A Review
+https://arxiv.org/abs/2504.18586
+YOLOについてのサーベイ論文
+
+
+Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models
+https://arxiv.org/abs/2606.03748
+NMS（非極大抑制：Non-Max Supression）フリーのYOLO最新版
+
+
+End-to-End Object Detection with Transformers
+https://arxiv.org/abs/2005.12872
+物体検出向けのTransformer (DETR: DEtection TRansformer)
+
+
+DETRs Beat YOLOs on Real-time Object Detection
+https://arxiv.org/abs/2304.08069
+リアルタイム処理特化のDETR
+
+
+Masked Autoencoders Are Scalable Vision Learners
+https://arxiv.org/abs/2111.06377
+主にTransformer向けの事前学習手法
+
+
+SAMシリーズ
+SAM: https://arxiv.org/abs/2304.02643
+SAM2: https://arxiv.org/abs/2408.00714
+SAM3: https://arxiv.org/abs/2511.16719
+強力な汎化性能を誇るセグメンテーション手法
+　➡動画からの車検出においてSAM3が強力な可能性あり
+
+
+Mamba YOLO: A Simple Baseline for Object Detection with State Space Model
+https://arxiv.org/abs/2406.05835
+Transformerの代替モデルとして期待されているMambaベースの物体検出手法
+
+
+
+
+
